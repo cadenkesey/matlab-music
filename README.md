@@ -5,7 +5,7 @@ A simple project demonstrating the use of audio samples in Matlab and stereo fun
 ## Authors
 
 * **Caden Kesey** - [cadenkesey](https://github.com/cadenkesey)
-* **Devin Otto**
+* **Devin Otto** - [dd-o](https://github.com/dd-o)
 * **Jordan Samuel**
 
 ## Acknowledgments
