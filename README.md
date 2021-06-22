@@ -1,6 +1,6 @@
 # Music in Matlab
 
-A simple project demonstrating the use of audio samples in Matlab and stereo functionality.
+A simple project demonstrating the use of audio samples and stereo functionality in Matlab.
 
 ## Authors
 
